@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "verify-mcp-updates-server": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/tmp"
+      ]
+    }
+  }
+}
